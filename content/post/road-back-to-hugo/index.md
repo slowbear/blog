@@ -1,9 +1,10 @@
 ---
-title: Road back to Hugo.
+title: Road back to Hugo
 author: Slowy
-date: 2020-11-12T17:21:48+08:00
-update: 2020-11-12T17:21:48+08:00
-# image:
+date: 2020-11-12
+update: 2020-11-12
+#description:
+#image:
 categories: website
 tags:
   - Hugo
@@ -15,9 +16,9 @@ tags:
 
 这几年下来博客是换了好几个了，但都多多少少存在着一些问题:
 
--   出于安全性和服务器问题，诸如 WordPress 的动态博客实在不好用
--   Hexo 经常出现不向前兼容的更新，维护 Blog 成本太大
--   [纸小墨](https://imeoer.github.io/)算是一个比较好用的 Blog Generator 了，不过维护不积极，而且在 Vercel 上部署不太方便
+- 出于安全性和服务器问题，诸如 WordPress 的动态博客实在不好用
+- Hexo 经常出现不向前兼容的更新，维护 Blog 成本太大
+- [纸小墨](https://imeoer.github.io/)算是一个比较好用的 Blog Generator 了，不过维护不积极，而且在 Vercel 上部署不太方便
 
 于是乎我最终决定回到 Hugo 的怀抱了。至少比起 Hexo，不需要使用 npm 这个无底黑洞……
 

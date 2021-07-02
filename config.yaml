@@ -1,4 +1,4 @@
-baseurl: https://slowy.dev
+baseurl: https://blog.slowy.dev
 languageCode: zh-CN
 theme: hugo-theme-stack
 paginate: 6

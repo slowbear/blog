@@ -6,7 +6,10 @@ update: 2021-04-29
 #description:
 #image: 
 categories: ebook
-#tags:
+tags:
+  - Ebook
+  - Rust
+  - Golang
 ---
 
 # 编程语言
@@ -18,8 +21,8 @@ categories: ebook
 
 ## Rust
 
-- [《Rust 程序设计语言》](https://kaisery.github.io/trpl-zh-cn/) |  [英文原版](https://doc.rust-lang.org/book/)
-- [Rust Reference](https://doc.rust-lang.org/reference/index.html)
+- [Rust 程序设计语言](https://rustwiki.org/zh-CN/book/) |  [英文原版](https://doc.rust-lang.org/book/)
+- [Rust 参考手册](https://rustwiki.org/zh-CN/reference/) | [英文原版](https://doc.rust-lang.org/reference/index.html)
 - [Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
 - [Unsafe Rust](https://doc.rust-lang.org/nightly/unstable-book/index.html)
 - [Rust 异步编程](https://huangjj27.github.io/async-book/index.html) | [英文原版](https://rust-lang.github.io/async-book/)

@@ -1,0 +1,9 @@
+/resources
+/public
+
+# VSCode
+/.vscode
+
+# Misc generate by Hugo
+jsconfig.json
+.hugo_build.lock
